@@ -1,0 +1,3 @@
+npx create-react-app . //установка react
+npx create-next-app
+npm run start // запуск проекта 
