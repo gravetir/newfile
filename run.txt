@@ -1,3 +1,32 @@
 npx create-react-app . //установка react
 npx create-next-app
-npm run start // запуск проекта 
+npm run start // запуск проекта
+ <html>
+ <head>
+ <meta charset="uif-8">
+ <title>Page title</title>
+ </head>
+ <body>
+ </body>
+ Есть блочные и неблочные теги
+ <h1> //заголовок
+ <div> яв-ся универсальным контекстным разделителем
+ Строчные элементы:
+ <a> //ссылка
+ <span>
+ <aside> навигационное меню
+ <nav>
+ <section>
+ <main> содержимое сайта
+ <article> статья выделение текста в <section>
+ <header>
+ <footer>
+ Упорядочные список
+ <ol>
+ <li>
+ <p style=""> </p>
+ <link rel="stylesheet">
+ дз: как сделать, чтобы footer прижимался к снизу, а main был сверху
+ rafce // создать дефолт для переноса из jsx в app.js
+ дз посмотреть инфу css flex + flex froggy
+ найти инфу css grid
