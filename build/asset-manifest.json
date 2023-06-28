@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newfile/static/css/main.a32db573.css",
-    "main.js": "/newfile/static/js/main.845c344c.js",
+    "main.css": "/newfile/static/css/main.8fc22fca.css",
+    "main.js": "/newfile/static/js/main.1164fb21.js",
     "static/media/Woman.svg": "/newfile/static/media/Woman.f2ed1da06663ca7ee09dcea7082d5453.svg",
     "static/media/Man.svg": "/newfile/static/media/Man.ca33be8817ee0cc09bf9ca7fc5a822ce.svg",
     "static/media/Shirt.svg": "/newfile/static/media/Shirt.552f9ff855bfc90556bc66fe3f0ffb42.svg",
@@ -15,11 +15,11 @@
     "static/media/Polygon.svg": "/newfile/static/media/Polygon.86f1f3b2170b6905db7f51acd532f2ba.svg",
     "static/media/Drip.svg": "/newfile/static/media/Drip.98d91d3800f4c9b22204bec22ebb0ad8.svg",
     "static/media/Rectangle 3.svg": "/newfile/static/media/Rectangle 3.51436b2b2ec5822461b7e32c44586be8.svg",
-    "main.a32db573.css.map": "/newfile/static/css/main.a32db573.css.map",
-    "main.845c344c.js.map": "/newfile/static/js/main.845c344c.js.map"
+    "main.8fc22fca.css.map": "/newfile/static/css/main.8fc22fca.css.map",
+    "main.1164fb21.js.map": "/newfile/static/js/main.1164fb21.js.map"
   },
   "entrypoints": [
-    "static/css/main.a32db573.css",
-    "static/js/main.845c344c.js"
+    "static/css/main.8fc22fca.css",
+    "static/js/main.1164fb21.js"
   ]
 }
