@@ -41,3 +41,8 @@ npm run start // запуск проекта
  react gh-pages 3 статья на русском // создание github pages
  в разделе scripts package.json вставить 2 строчки
  virtual box ubuntu
+ content ОТЧЁТА
+ Основы разработки react
+ что такое react
+ Компонетный подход
+ Скрины макета и сайта

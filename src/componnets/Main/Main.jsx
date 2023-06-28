@@ -10,7 +10,6 @@ import Shirt from '../Shirt/Shirt'
 import Woman2 from '../Woman2/Woman2'
 
 const Main = () => {
-	console.log(Slider)
 	return (
 		<div>
 			<main>
