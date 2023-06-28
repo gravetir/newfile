@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newfile/static/css/main.a32db573.css",
+    "main.js": "/newfile/static/js/main.845c344c.js",
+    "static/media/Woman.svg": "/newfile/static/media/Woman.f2ed1da06663ca7ee09dcea7082d5453.svg",
+    "static/media/Man.svg": "/newfile/static/media/Man.ca33be8817ee0cc09bf9ca7fc5a822ce.svg",
+    "static/media/Shirt.svg": "/newfile/static/media/Shirt.552f9ff855bfc90556bc66fe3f0ffb42.svg",
+    "static/media/Woman2.svg": "/newfile/static/media/Woman2.cc4625716d7297aac4e98313d4f3db31.svg",
+    "static/media/run_shoes.png": "/newfile/static/media/run_shoes.5005910ee91b57a5bbbf.png",
+    "static/media/Logo.svg": "/newfile/static/media/Logo.02727b347092be19c68c94cd4d48e3d8.svg",
+    "static/media/Logoend.svg": "/newfile/static/media/Logoend.77197cd03adacc2a74ce2ce9d2264f76.svg",
+    "static/media/basket.svg": "/newfile/static/media/basket.2341d3aceb79341ef7ae9f78ff36b309.svg",
+    "index.html": "/newfile/index.html",
+    "static/media/Arrow.svg": "/newfile/static/media/Arrow.2b21e6e4d79129ba19914bfc2770f8c1.svg",
+    "static/media/Polygon.svg": "/newfile/static/media/Polygon.86f1f3b2170b6905db7f51acd532f2ba.svg",
+    "static/media/Drip.svg": "/newfile/static/media/Drip.98d91d3800f4c9b22204bec22ebb0ad8.svg",
+    "static/media/Rectangle 3.svg": "/newfile/static/media/Rectangle 3.51436b2b2ec5822461b7e32c44586be8.svg",
+    "main.a32db573.css.map": "/newfile/static/css/main.a32db573.css.map",
+    "main.845c344c.js.map": "/newfile/static/js/main.845c344c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a32db573.css",
+    "static/js/main.845c344c.js"
+  ]
+}
