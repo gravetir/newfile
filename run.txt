@@ -30,3 +30,14 @@ npm run start // запуск проекта
  rafce // создать дефолт для переноса из jsx в app.js
  дз посмотреть инфу css flex + flex froggy
  найти инфу css grid
+ crt+f //поисковая строка
+ Вопрос: как закрепить кнопку
+ @media (max-width:1140px) добавление меню
+ section{}
+ display: none; убрать меню
+ active
+ useState управление меню
+ const (active,setactive)= useState (false)
+ react gh-pages 3 статья на русском // создание github pages
+ в разделе scripts package.json вставить 2 строчки
+ virtual box ubuntu

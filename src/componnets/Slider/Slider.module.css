@@ -1,0 +1,5 @@
+.run__shoes{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
