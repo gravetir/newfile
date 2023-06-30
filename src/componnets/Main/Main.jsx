@@ -119,7 +119,7 @@ const Main = () => {
 							className={styles.main__email}
 							placeholder='Ваш e-mail'
 							type='email'
-						></input>
+						/>
 						<button className={styles.second__button}>ПОДПИСАТЬСЯ</button>
 					</div>
 				</div>
