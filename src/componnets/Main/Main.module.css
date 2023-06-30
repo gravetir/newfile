@@ -230,15 +230,15 @@
 @media (max-width: 1024px) {
 	.card__woman {
 		display: grid;
-		grid-template-columns: 1fr;
-		grid-template-rows: repeat(4, 1fr);
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(2, 1fr);
 		grid-column-gap: 0px;
 		grid-row-gap: 0px;
 	}
 	.card__woman1 {
 		display: grid;
-		grid-template-columns: 1fr;
-		grid-template-rows: repeat(4, 1fr);
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(2, 1fr);
 		grid-column-gap: 0px;
 		grid-row-gap: 0px;
 	}
@@ -258,8 +258,8 @@
 @media (max-width: 768px) {
 	.main__card {
 		display: grid;
-		grid-template-columns: 1fr;
-		grid-template-rows: repeat(8, 1fr);
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(4, 1fr);
 		grid-column-gap: 0px;
 		grid-row-gap: 0px;
 	}
@@ -284,8 +284,8 @@
 @media (max-width: 426px) {
 	.main__card {
 		display: grid;
-		grid-template-columns: 1fr;
-		grid-template-rows: repeat(8, 1fr);
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(4, 1fr);
 		grid-column-gap: 0px;
 		grid-row-gap: 0px;
 	}
@@ -307,8 +307,8 @@
 @media (max-width: 375px) {
 	.main__card {
 		display: grid;
-		grid-template-columns: 1fr;
-		grid-template-rows: repeat(8, 1fr);
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(4, 1fr);
 		grid-column-gap: 0px;
 		grid-row-gap: 0px;
 	}
@@ -328,9 +328,16 @@
 		grid-template-rows: repeat(8, 1fr);
 		grid-column-gap: 0px;
 		grid-row-gap: 0px;
+		margin: 0 auto;
 	}
 	.card__woman {
 		padding: 0px;
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: repeat(4, 1fr);
+		grid-column-gap: 0px;
+		grid-row-gap: 0px;
+		margin: 0 auto;
 	}
 	.secondmain__end .wrapper {
 		flex-direction: column;
@@ -339,5 +346,13 @@
 	}
 	.man__kartinka {
 		display: none;
+	}
+	.card__woman1 {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: repeat(4, 1fr);
+		grid-column-gap: 0px;
+		grid-row-gap: 0px;
+		margin: 0 auto;
 	}
 }
