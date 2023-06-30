@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/newfile/static/css/main.cb831f4f.css",
+    "main.css": "/newfile/static/css/main.c31542b2.css",
     "main.js": "/newfile/static/js/main.1164fb21.js",
     "static/media/Woman.svg": "/newfile/static/media/Woman.f2ed1da06663ca7ee09dcea7082d5453.svg",
     "static/media/Man.svg": "/newfile/static/media/Man.ca33be8817ee0cc09bf9ca7fc5a822ce.svg",
@@ -15,11 +15,11 @@
     "static/media/Polygon.svg": "/newfile/static/media/Polygon.86f1f3b2170b6905db7f51acd532f2ba.svg",
     "static/media/Drip.svg": "/newfile/static/media/Drip.98d91d3800f4c9b22204bec22ebb0ad8.svg",
     "static/media/Rectangle 3.svg": "/newfile/static/media/Rectangle 3.51436b2b2ec5822461b7e32c44586be8.svg",
-    "main.cb831f4f.css.map": "/newfile/static/css/main.cb831f4f.css.map",
+    "main.c31542b2.css.map": "/newfile/static/css/main.c31542b2.css.map",
     "main.1164fb21.js.map": "/newfile/static/js/main.1164fb21.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb831f4f.css",
+    "static/css/main.c31542b2.css",
     "static/js/main.1164fb21.js"
   ]
 }
