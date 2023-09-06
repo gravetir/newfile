@@ -353,3 +353,10 @@
 		margin: 0 auto;
 	}
 }
+/* @media(max-width:225px){
+	.secondmain__end .wrapper{
+		flex-direction: column;
+		max-width: 1100px;
+		width: none;
+	}
+} */
